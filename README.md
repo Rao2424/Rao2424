@@ -3,7 +3,7 @@
 # Hi, I'm Rao2424 🐕
 
 *Java Backend Developer · AI Agent Explorer · Shenzhen , China*  
-*Java 后端开发 · AI Agent 探索者 · 中国深圳*
+Java 后端开发 · AI Agent 探索者 · 中国深圳
 
 </div>
 
@@ -12,7 +12,7 @@
 ### 🧑‍💻 About / 关于我  
 
 - 🛡️ 关注后端系统开发，尤其是规则执行、缓存、消息队列和稳定性建设
-- 🤖 持续探索 AI Agent、RAG、自动化工具和代码生成
+- 🤖 持续探索 AI Agent、RAG、自动化工具和 vibeCoding 代码生成
 - 🌱 喜欢把复杂业务拆成清晰、可靠、可维护的系统
 - 🚀 目标方向：Java 后端、AI 应用工程化
 
@@ -23,8 +23,6 @@
 - **Backend / 后端开发:** Java, Spring Boot, Spring Cloud, MyBatis Plus
 - **Middleware / 中间件:** Redis, Nacos, RabbitMQ / RocketMQ, Elasticsearch
 - **Database / 数据库:** MySQL, Kingbase, PostgreSQL
-- **Tools & Automation / 工具自动化:** Python, Shell, AI Agents
-- **Frontend / 前端基础:** Vue 3, TypeScript, Element Plus
 
 ---
 
