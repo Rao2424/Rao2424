@@ -40,11 +40,3 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
-
-### 📌 Current Focus / 近期关注
-
-- Java 后端工程化
-- 分布式系统稳定性
-- Redis / MQ / MySQL 性能优化
-- AI Agent 与业务系统结合
-- 个人项目与技术博客建设
