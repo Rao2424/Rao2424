@@ -3,7 +3,6 @@
 # Hi, I'm Rao2424 🐕
 
 *Java Backend Developer · AI Agent Explorer · Shenzhen , China*  
-Java 后端开发 · AI Agent 探索者 · 中国深圳
 
 </div>
 
