@@ -8,20 +8,21 @@
 
 ---
 
-### 🧑‍💻 About / 关于我  
+### 🧑‍💻 About
 
-- 🛡️ 关注后端系统开发，尤其是规则执行和稳定性建设
-- 🤖 持续探索 AI Agent、RAG、自动化工具和 vibeCoding 代码生成
-- 🌱 喜欢把复杂业务拆成清晰、可靠、可维护的系统
-- 🚀 目标方向：Java 后端、skill 工作流
+- 🛡️ 关注后端、分布式系统与稳定性工程
+- 🔭 重视 Observability，通过 Logs、Metrics、Traces 理解系统真实运行行为
+- 🤖 探索 AI Agent、RAG、Tool Calling 与 AI-assisted Development
+- 🧠 更关注系统架构、模块边界、数据流与调用链，而不仅仅是代码实现
+- 🌱 持续探索 AI Agent 时代的软件工程与开发范式
 
 ---
 
-### 🧰 What I Build With / 我主要用这些做什么
+### 🎯 Interests
 
-- **Backend / 后端开发:** Java, Spring Boot, Spring Cloud, MyBatis Plus
-- **Middleware / 中间件:** Redis, Nacos, RabbitMQ / RocketMQ, Elasticsearch
-- **Database / 数据库:** MySQL, Kingbase, PostgreSQL
+- ☁️ Cloud Infrastructure & Cloud Native
+- 🤖 AI Engineering & Agentic Systems
+- 🏗️ Backend Architecture & Distributed Systems
 
 ---
 
@@ -30,10 +31,8 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Nacos](https://img.shields.io/badge/Nacos-0081CB?style=flat)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
