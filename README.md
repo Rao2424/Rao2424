@@ -2,7 +2,7 @@
 
 # Hi, I'm Rao2424 🐕🐱
 
-*Java Backend Developer · AI Agent Explorer · Shenzhen , China*  
+*Java Backend Developer · AI Agent Explorer · ShangHai , China*  
 
 </div>
 
@@ -13,16 +13,15 @@
 - 🛡️ 关注后端、分布式系统与稳定性工程
 - 🔭 重视 Observability，通过 Logs、Metrics、Traces 理解系统真实运行行为
 - 🤖 探索 AI Agent、RAG、Tool Calling 与 AI-assisted Development
-- 🧠 开始学习区块链基础知识
+- 🧠 正在学习区块链基础知识
 - 🌱 持续探索 AI Agent 时代的软件工程与开发范式
 
 ---
 
 ### 🎯 Interests
 
-- ☁️ Cloud Infrastructure & Cloud Native
-- 🤖 AI Engineering & Agentic Systems
-- 🏗️ Backend Architecture & Distributed Systems
+- ☁️ blockchain
+- 🤖 quantitative finance
 
 ---
 
