@@ -13,7 +13,7 @@
 - 🛡️ 关注后端、分布式系统与稳定性工程
 - 🔭 重视 Observability，通过 Logs、Metrics、Traces 理解系统真实运行行为
 - 🤖 探索 AI Agent、RAG、Tool Calling 与 AI-assisted Development
-- 🧠 正在学习区块链基础知识
+- 🧠 努力 review AI coding
 - 🌱 持续探索 AI Agent 时代的软件工程与开发范式
 
 ---
